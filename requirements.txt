@@ -1,4 +1,4 @@
 streamlit
-df-enhance
+deepfilternet
 torch
 torchaudio
